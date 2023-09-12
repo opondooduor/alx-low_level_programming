@@ -8,6 +8,7 @@
 
 void print_alphabet_x10(void)
 {
+
 char ch;
 int i;
 i = o;
@@ -20,5 +21,6 @@ _putchar(ch);
 _putchar('\n');
 i++;
 }
+
 
 }
